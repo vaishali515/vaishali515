@@ -1,26 +1,24 @@
+<!-- Profile README -->
+
+
+<!-- Header: animated wave + gradient space colors -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:0f0c29,50:302b63,100:24243e&text=Vaishali%20Chauhan&fontSize=45&fontColor=00FFFF&animation=fadeIn&fontAlignY=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Vaishali%20Chauhan&fontAlign=50&fontSize=40&font=Roboto%20Mono&fontColor=00FFFF&color=0:0f0c29,50:302b63,100:24243e&animation=twinkling" alt="header" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Vaishali Chauhan</h1>
+
+<!-- Typing line (rotates phrases) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&duration=3500&color=00FFFF&center=true&vCenter=true&width=900&lines=Backend+Engineer+%40+Cognizant;Java+17+%7C+Spring+Boot+3.x+%7C+Kafka+%7C+AWS;System+Design+%7C+Event-Driven+%7C+Distributed+Systems;DSA+%26+Problem+Solving+%E2%80%94+1250%2B+LC+%2F+900%2B+GFG" alt="typing" />
+</p>
+<h3 align="center">🚀 Backend Engineer @ TCS | Java • Spring Boot • Kafka • AWS | System Design Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=900&lines=Backend+Engineer;Java+%7C+Spring+Boot+%7C+Distributed+Systems;Microservices+Architecture;Kafka+%7C+RabbitMQ+%7C+Docker;Building+Scalable+Backend+Systems"/>
+  <a href="mailto:vaishalichauhan946@gmail.com"><img src="https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=00ffff" /></a>
+  <a href="https://www.linkedin.com/in/vaishalic28/"><img src="https://img.shields.io/badge/LinkedIn-302b63?style=for-the-badge&logo=linkedin&logoColor=00ffff" /></a>
+  <a href="https://github.com/vaishali515"><img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=00ffff" /></a>
 </p>
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/vaishalic28/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://leetcode.com/u/vaishalichauhan946/">
-<img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=vaishali515&label=Profile%20Views&color=blue&style=for-the-badge"/>
-
-</p>
 
 ---
 
