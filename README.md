@@ -126,3 +126,7 @@ https://leetcode.com/u/vaishalichauhan946/
 # ⚡ Fun Fact
 
 I enjoy debugging **distributed systems production issues** more than writing code ☕
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=100&section=footer" />
+</p>
