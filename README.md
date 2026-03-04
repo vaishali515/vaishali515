@@ -22,7 +22,7 @@
 
 ---
 
-# About Me
+# 💡 About Me
 
 Backend engineer experienced in building **scalable microservices architectures and distributed systems** using **Java and Spring Boot**.
 
