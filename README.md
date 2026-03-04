@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Vaishali Chauhan</h1>
 
-<!--
-**vaishali515/vaishali515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Backend Engineer | Distributed Systems</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- Backend Engineer at **TCS Digital**
+- Building **microservices & distributed systems**
+- 1000+ problems solved on LeetCode
+
+---
+
+### ⚙️ Tech Stack
+Java
+Spring Boot
+Kafka
+RabbitMQ
+Docker
+PostgreSQL
+AWS
+
+
+---
+
+### 📊 GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
+
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME)
+
+---
+
+### 🔥 Contribution Streak
+
+![streak](https://streak-stats.demolab.com/?user=YOURUSERNAME)
+
+---
+
+### 🌐 Connect
+
+LinkedIn | LeetCode | Email
+
+system-design-playground
+
+User → API Gateway → Auth Service
+                        ↓
+                  Kafka Event Bus
+                        ↓
+        Interview Service → Notification Service
+
+![Leetcode Stats](https://leetcode.com/u/vaishalichauhan946/)
+
+
