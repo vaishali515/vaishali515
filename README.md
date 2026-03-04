@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaishali Chauhan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=900&lines=Backend+Engineer;Java+%7C+Spring+Boot+%7C+Distributed+Systems;Microservices+Architecture;Kafka+%7C+RabbitMQ+%7C+Docker;Building+Scalable+Backend+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=900&lines=Backend+Engineer;Java+%7C+Spring+Boot+%7C+Distributed+Systems;Microservices+Architecture;Kafka+%7C+RabbitMQ+%7C+Docker;Building+Scalable+Backend+Systems"/>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=vaishali515&label=Profile%20Views&color=blue&style=for-the-badge"/>
 
 </p>
 
@@ -22,15 +22,17 @@
 
 # 🚀 Backend Engineer | Distributed Systems
 
-Backend engineer with experience designing **scalable microservices architectures and distributed systems**.
+Backend engineer experienced in building **scalable microservices architectures and distributed systems** using **Java and Spring Boot**.
 
-💡 I focus on:
+💡 I enjoy designing **high-performance backend platforms**, solving complex engineering problems, and debugging production systems.
 
-• High-performance backend systems
-• Event-driven architectures
-• Microservices design
-• Production observability
-• System scalability
+### Core Focus
+
+• Microservices Architecture
+• Distributed Systems
+• Event-Driven Systems
+• Backend Scalability
+• System Design
 
 ---
 
@@ -77,13 +79,13 @@ Observability Stack
 
 ## Switchboard — Distributed Backend Platform
 
-Production-style **microservices backend platform**.
+A **production-style microservices backend architecture** designed for scalability and reliability.
 
 ### Highlights
 
 ✔ Event-Driven Architecture
 ✔ Kafka Domain Event Streaming
-✔ RabbitMQ Async Task Processing
+✔ RabbitMQ Async Processing
 ✔ Dockerized Microservices
 ✔ CI/CD Pipelines using GitHub Actions
 ✔ Observability with Prometheus & Grafana
@@ -97,9 +99,42 @@ Production-style **microservices backend platform**.
 
 <p align="center">
 
-<img width="999" height="469" alt="image" src="https://github.com/user-attachments/assets/714a91f1-176c-4762-90a9-127116a36efd" />
+<img width="900" src="https://github.com/user-attachments/assets/714a91f1-176c-4762-90a9-127116a36efd"/>
 
 </p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vaishali515&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishali515&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishali515&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishali515&theme=tokyo-night"/>
+
+</p>
+
 ---
 
 # 🌍 Connect With Me
@@ -114,10 +149,10 @@ https://www.linkedin.com/in/vaishalic28/
 https://github.com/vaishali515
 
 🧠 LeetCode
-[YOUR_LEETCODE](https://leetcode.com/u/vaishalichauhan946/)
+https://leetcode.com/u/vaishalichauhan946/
 
 ---
 
 # ⚡ Fun Fact
 
-I enjoy debugging **distributed systems issues in production** more than writing code ☕
+I enjoy debugging **distributed systems production issues** more than writing code ☕
