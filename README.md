@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:0f0c29,50:302b63,100:24243e&text=Vaishali%20Chauhan&fontSize=45&fontColor=00FFFF&animation=fadeIn&fontAlignY=50"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Vaishali Chauhan</h1>
