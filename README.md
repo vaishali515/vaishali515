@@ -1,42 +1,24 @@
-<h1 align="center">Hi 👋, I'm Vaishali Chauhan</h1>
-<h3 align="center">Backend Engineer | Java | Distributed Systems | Microservices</h3>
+<!-- HEADER -->
+
+<h1 align="center">
+  Hi 👋, I'm Vaishali Chauhan
+</h1>
 
 <p align="center">
-Building scalable backend systems powering real-world applications
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Backend+Engineer;Java+%7C+Spring+Boot+%7C+Distributed+Systems;Microservices+Architect;Kafka+%7C+RabbitMQ+%7C+Docker;Building+Scalable+Backend+Platforms" />
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-Backend Engineer with **2+ years experience designing distributed systems** using **Java & Spring Boot**.
+🚀 Backend Engineer passionate about building **scalable distributed systems**
 
-💡 I specialize in building **high-throughput microservices**, **event-driven systems**, and **cloud-native backend architectures**.
-
-⚡ I enjoy solving complex backend problems involving:
-
-- Distributed Systems
-- Microservices Architecture
-- Event Driven Systems
-- High performance APIs
-- Observability & Production Debugging
-
----
-
-# 🚀 Current Work
-
-🔭 Building **Switchboard — Distributed Backend Platform**
-
-Architecture includes:
-
-- Auth Service
-- Interview Service
-- Workspace Service
-- Notification Service
-- Portfolio Service
-- AMS Service
-
-Event driven communication using **Kafka & RabbitMQ**
+- 🔭 Working with **Java, Spring Boot, Microservices**
+- ⚡ Experienced with **Kafka, RabbitMQ, Docker**
+- 📈 Building **high performance backend platforms**
+- 🧠 Strong in **Distributed Systems & System Design**
+- 🔥 Solved **1000+ DSA problems**
 
 ---
 
@@ -48,28 +30,42 @@ Microservices Layer
 (Auth / Interview / Workspace / Portfolio)
 
 ↓
-
 Event Streaming Layer
 Kafka → Domain Events
 
 ↓
-
-Async Task Processing
-RabbitMQ → Jobs / Notifications
+Async Task Queue
+RabbitMQ → Background Jobs
 
 ↓
-
 Data Layer
 PostgreSQL
 
 ↓
+Observability
+Prometheus
+Grafana
+Loki
+OpenTelemetry
 
-Observability Stack
-Prometheus + Grafana
-Loki + Promtail
-OpenTelemetry + Tempo
 
+---
 
+# 🚀 Featured Project
+
+## Switchboard — Distributed Backend Platform
+
+Designed a **production-grade backend system** with multiple microservices.
+
+### Core Features
+
+✔ Event driven architecture  
+✔ Kafka domain event streaming  
+✔ RabbitMQ async processing  
+✔ Docker containerization  
+✔ CI/CD pipelines  
+✔ Observability stack  
+✔ Centralized configuration
 
 ---
 
@@ -77,51 +73,29 @@ OpenTelemetry + Tempo
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://skillicons.dev/icons?i=java)
 
 ### Backend
 
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
-![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=spring)
+![Spring](https://skillicons.dev/icons?i=spring)
 
 ### Databases
 
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Postgres](https://skillicons.dev/icons?i=postgres)
 
-### Messaging Systems
+### Messaging
 
-![Kafka](https://img.shields.io/badge/ApacheKafka-black?style=for-the-badge&logo=apachekafka)
+![Kafka](https://skillicons.dev/icons?i=kafka)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq)
 
 ### DevOps
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
-![Github Actions](https://img.shields.io/badge/GitHubActions-2088FF?style=for-the-badge&logo=github-actions)
+![Docker](https://skillicons.dev/icons?i=docker)
+![GitHubActions](https://skillicons.dev/icons?i=github)
 
 ### Observability
 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
-
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
-
----
-
-# 🧩 Featured Project
-
-## 🚀 Switchboard — Distributed Backend Platform
-
-Designed and built a **production-grade distributed backend system**.
-
-Key highlights:
-
-✔ Microservices architecture  
-✔ Event-driven architecture  
-✔ Kafka domain event streaming  
-✔ RabbitMQ async processing  
-✔ Docker containerization  
-✔ CI/CD pipelines  
-✔ Observability stack  
+Prometheus • Grafana • Loki • Tempo • OpenTelemetry
 
 ---
 
@@ -129,11 +103,29 @@ Key highlights:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
 
 </p>
 
@@ -145,7 +137,17 @@ Key highlights:
 
 <p align="center">
 
-<img src="YOUR_LEETCODE_SCREENSHOT_LINK">
+<img src="YOUR_LEETCODE_SCREENSHOT_LINK"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
@@ -153,15 +155,24 @@ Key highlights:
 
 # 🌍 Connect With Me
 
-📧 Email: vaishalichauhan946@gmail.com  
-💼 LinkedIn: YOUR_LINKEDIN  
-💻 GitHub: YOUR_GITHUB  
-🧠 LeetCode: YOUR_LEETCODE
+📧 Email  
+vaishalichauhan946@gmail.com  
+
+💼 LinkedIn  
+YOUR_LINKEDIN  
+
+💻 GitHub  
+https://github.com/YOUR_GITHUB_USERNAME  
+
+🧠 LeetCode  
+YOUR_LEETCODE  
 
 ---
 
 # ⚡ Fun Fact
 
-I enjoy **debugging distributed systems issues in production at 2 AM** ☕
+I enjoy **debugging distributed systems production issues** more than writing code 😄
+
+
 
 
