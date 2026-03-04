@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Vaishali Chauhan</h1>
 
 <p align="center">
@@ -100,38 +104,6 @@ A **production-style microservices backend architecture** designed for scalabili
 <p align="center">
 
 <img width="900" src="https://github.com/user-attachments/assets/714a91f1-176c-4762-90a9-127116a36efd"/>
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vaishali515&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishali515&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishali515&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishali515&theme=tokyo-night"/>
 
 </p>
 
