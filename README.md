@@ -6,11 +6,11 @@
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/vaishalic28/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="YOUR_LEETCODE">
+<a href="https://leetcode.com/u/vaishalichauhan946/">
 <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode"/>
 </a>
 
@@ -91,38 +91,6 @@ Production-style **microservices backend platform**.
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vaishali515&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishali515&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishali515&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishali515&theme=tokyo-night"/>
-
-</p>
-
----
-
 # 🧠 Problem Solving
 
 🔥 Solved **1000+ problems on LeetCode**
@@ -132,17 +100,6 @@ Production-style **microservices backend platform**.
 <img width="999" height="469" alt="image" src="https://github.com/user-attachments/assets/714a91f1-176c-4762-90a9-127116a36efd" />
 
 </p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/vaishali515/vaishali515/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
 ---
 
 # 🌍 Connect With Me
